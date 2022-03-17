@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       Exercises App, new dev branch is here 
       main is also here 
+      Test title
     </div>
   );
 }
