@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Exercise app
+      Exercises App has been changed
     </div>
   );
 }
